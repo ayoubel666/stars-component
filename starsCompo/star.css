@@ -1,0 +1,12 @@
+.star{
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.stars{
+    margin: 30px auto;
+    width: fit-content;
+}
+.gold{
+    color: gold;
+}
